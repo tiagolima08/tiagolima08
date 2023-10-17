@@ -1,16 +1,18 @@
-### Hi there 👋
+### bem vindos ao meu perfil ❤️
 
-<!--
-**tiagolima08/tiagolima08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Tiago Antonio de Lima
 
-Here are some ideas to get you started:
+-Estou estudando no [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou estudando a linguagem JavaScript
+
+-Utilizo esse espaço para a minha organização e compartilhamento dos meus trabalho desenvolvido
+
+### Você entra em contato comigo 📫
+
+tiago.antonio.lima@escola.pr.gov.br
+
+@tiagolima
+
+![](![image](https://github.com/tiagolima08/tiagolima08/assets/147545018/245c13dd-0642-4682-a1f2-5ff2cd2fd2a1)
+
